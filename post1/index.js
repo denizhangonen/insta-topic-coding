@@ -23,7 +23,7 @@
 */
 
 // 3. console.log()
-// console'da mesaj göterir.
+// console'da mesaj gösterir
 
 console.log('@yazilimRobotu rocks!');
 
