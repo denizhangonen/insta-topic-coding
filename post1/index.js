@@ -30,12 +30,12 @@ console.log('@yazilimRobotu rocks!');
 // 4. console.warn()
 // console'da uyarı mesajı gösterir
 
-console.warn('Johnny');
+console.warn('Johnny B. Goode');
 
 // 5. console.error()
 // console'da hata mesajı gösterir
 
-console.error('B goode!');
+console.error('Kashmir');
 
 // 6. console.count()
 // console'da method'un kaç defa çağırıldığını gösterir
